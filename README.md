@@ -34,4 +34,4 @@ No installation needed — works on any device (desktop or mobile).
 
 ```bash
 git clone https://github.com/kapase16/rainwater_harvesting_tool.git
-cd rainwater-calculator
+cd rainwater_harvesting_tool
